@@ -3,7 +3,7 @@
     org/openqa/selenium/By   linkText ,(Ljava/lang/String;)Lorg/openqa/selenium/By;  !   org/openqa/selenium/WebDriver " # findElement :(Lorg/openqa/selenium/By;)Lorg/openqa/selenium/WebElement; obj  Lorg/openqa/selenium/WebElement; getContactUs ( 
 Contact Us getSearchBox + search_query_top
   - .  id getSearchBoxButton 1 submit_search
-  3 4  name hello there
+  3 4  name 
 SourceFile homePage.java !                 	   F     
 *· 
 *+µ ±              	         
